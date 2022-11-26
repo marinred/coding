@@ -3,6 +3,7 @@
 
 ## Week_1 Question
 <br>
+
 ### 프로그래머스 문제를 풀면서 코딩테스트 실습을 진행합니다.
 
 ---
@@ -11,18 +12,26 @@
 
 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 
+- arr의 배열의 합을 구한다.
+- arr의 배열의 합에서 길이 만큼 나눠서 return 한다.
+
 ___
 
 ## 2. 짝수와 홀수
-<br>
+
+  - input수를 2로 나눠준다.
+  - 나눠진 수에 따라 Even과 Odd를 부여한다. (if의 경우 Even else의 경우 Odd)
 
 ---
 
 ## 3. 자릿수 더하기
+- n을 string으로 변환 후 각 자리마다 integer형태로 num 변수에 저장을 한다.
+- 리스트의 합을 return 한다.
 <br>
 <hr/>
 
 ## 4. 자연수 뒤집어 배열로 만들기
+
 <br>
 <hr/>
 
