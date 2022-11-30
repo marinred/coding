@@ -18,7 +18,7 @@
 ___
 
 ## 2. 짝수와 홀수
-
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=python)
   - input수를 2로 나눠준다.
   - 나눠진 수에 따라 Even과 Odd를 부여한다. (if의 경우 Even else의 경우 Odd)
 
@@ -31,6 +31,9 @@ ___
 <hr/>
 
 ## 4. 자연수 뒤집어 배열로 만들기
+
+- 자연수를 스트링으로 바꾼다.
+- 해당 자연수를 for문을 돌리면서 역순으로 출력한다.
 
 <br>
 <hr/>
