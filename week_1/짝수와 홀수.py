@@ -6,4 +6,5 @@ def solution(num):
 
 
 #* 출력 시도
-print(solution(1))
+# print(solution(1))
+print("평균값 : {}" .format(solution(2)))
