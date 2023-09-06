@@ -1,4 +1,5 @@
 # Rabbit_cordingtest
+## marinred, imdonggeun 이름을 같이 사용 중입니다.
 
 <hr/>
 
